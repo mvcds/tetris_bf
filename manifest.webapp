@@ -1,0 +1,19 @@
+﻿{
+	"name": "Tetris BF",
+	"description": "Tetris no caminho de ser um battlefield",
+	"version": "1.0",
+	"launch_path": "/index.html",
+	"orientation": ["portrait"],
+	"icons": {
+		"16": "/icon_16.png",
+		"32": "/icon_32.png",
+		"128": "/icon_128.png"
+	},
+	"developer": {
+		"name": "Tetris BF Team",
+		"url": ""
+	},
+	"default_locale": "en",
+	"fullscreen": "true",
+	"appcache_path": "/offline.appcache"
+}
